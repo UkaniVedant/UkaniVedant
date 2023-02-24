@@ -20,6 +20,13 @@
 <a href="https://www.hackerrank.com/patelvedant321">
   <img align="left" alt="Vedant's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/hackerrank.svg" />
 </a>
+
+
+#
+<br />
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=UkaniVedant&labelColor=%23697689&countColor=%23d9e3f0&style=flat)
+<br />
 <!---
 UkaniVedant/UkaniVedant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
