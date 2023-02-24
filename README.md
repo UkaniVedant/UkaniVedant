@@ -25,7 +25,7 @@
 #
 <br />
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=UkaniVedant&labelColor=%23697689&countColor=%23d9e3f0&style=flat)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=UkaniVedant&labelColor=%23697689&countColor=%232ccce4&style=flat)
 <br />
 <!---
 UkaniVedant/UkaniVedant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
