@@ -1,3 +1,7 @@
+# UKANI VEDANT
+
+
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 - 👋 Hi, I’m @UkaniVedant
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Web Development
