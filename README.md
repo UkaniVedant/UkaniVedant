@@ -16,7 +16,7 @@
 <a href="https://www.hackerrank.com/patelvedant321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="patelvedant321" height="30" width="40" /></a>
 </p>
 
-<img align="right" alt="PNG" src="https://github.com/UkaniVedant/UkaniVedant/blob/main/ukanivedant.gif" height="200" width="280" >
+<img align="right" alt="PNG" src="https://github.com/UkaniVedant/UkaniVedant/blob/main/ukanivedant.gif" height="228" width="380" >
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
